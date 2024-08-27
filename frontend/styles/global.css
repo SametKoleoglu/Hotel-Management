@@ -1,0 +1,23 @@
+.hms-color-light {
+     color: #c1e6ed;
+}
+
+.hms-bg-normal {
+     background-color: hsl(189, 43%, 49%);
+}
+
+.hms-bg-dark,.hms-bg-dark:hover {
+     background-color: #1E90A4;
+}
+
+.hms-btn-dark {
+     background-color: hsl(189, 72%, 62%);
+}
+
+.hms-btn-dark:hover {
+     background-color: hsl(189, 50%, 76%);
+}
+
+.hms-color-normal{
+     color: #3d8692;
+}
